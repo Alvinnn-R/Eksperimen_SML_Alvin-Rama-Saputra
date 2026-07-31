@@ -1,0 +1,47 @@
+[
+  {
+    "prediction": 1,
+    "label": "Diabetes",
+    "confidence": 0.9042149118167147,
+    "probabilities": {
+      "Normal": 0.09578508818328535,
+      "Diabetes": 0.9042149118167147
+    }
+  },
+  {
+    "prediction": 0,
+    "label": "Normal",
+    "confidence": 0.9604653345493247,
+    "probabilities": {
+      "Normal": 0.9604653345493247,
+      "Diabetes": 0.03953466545067527
+    }
+  },
+  {
+    "prediction": 0,
+    "label": "Normal",
+    "confidence": 0.983233700612617,
+    "probabilities": {
+      "Normal": 0.983233700612617,
+      "Diabetes": 0.01676629938738302
+    }
+  },
+  {
+    "prediction": 0,
+    "label": "Normal",
+    "confidence": 0.6895155319093191,
+    "probabilities": {
+      "Normal": 0.6895155319093191,
+      "Diabetes": 0.3104844680906809
+    }
+  },
+  {
+    "prediction": 0,
+    "label": "Normal",
+    "confidence": 0.988342058391763,
+    "probabilities": {
+      "Normal": 0.988342058391763,
+      "Diabetes": 0.011657941608236954
+    }
+  }
+]
