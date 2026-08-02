@@ -1,3 +1,0 @@
-# Tautan ke repository GitHub Workflow-CI:
-
-https://github.com/Alvinnn-R/Workflow-CI
